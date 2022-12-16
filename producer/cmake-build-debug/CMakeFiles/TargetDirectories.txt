@@ -1,0 +1,3 @@
+/home/mohamed/CLionProjects/producer/cmake-build-debug/CMakeFiles/producer_consumer.dir
+/home/mohamed/CLionProjects/producer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mohamed/CLionProjects/producer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
